@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Logo altText="logo" />
-        <Navigation elements={['Home', 'Players', 'Games']}/>
+        <Navigation elements={['Home', 'Players', 'Games', 'Hall of Game']}/>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
